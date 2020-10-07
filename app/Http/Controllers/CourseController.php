@@ -50,5 +50,9 @@ class CourseController extends Controller
     //检测
     public function test(){
 
-    };
+    }
+    //检测2
+    public function testInfo(){
+
+    }
 }
