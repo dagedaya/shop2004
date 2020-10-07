@@ -47,4 +47,8 @@ class CourseController extends Controller
             return redirect('course/index');
         }
     }
+    //检测
+    public function test(){
+
+    };
 }
